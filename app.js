@@ -1,1 +1,2 @@
-consloe.log("Hello");
+consloe.log("Hello")
+console.log("Nonnklnlp")
